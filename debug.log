@@ -1,0 +1,24 @@
+[0324/120009.586:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0614/212531.758:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0614/213140.816:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0615/045045.488:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0615/045046.187:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0625/003635.762:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0625/004635.765:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0625/004635.765:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0625/005135.765:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0625/010635.772:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0625/010708.987:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0625/012135.787:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0625/003635.028:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0625/005135.029:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0625/010635.030:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0625/012135.031:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0625/003635.039:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0625/005135.061:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0625/010631.556:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0625/010635.068:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0625/010804.050:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0625/012135.073:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0625/003635.089:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0625/003654.674:ERROR:crash_report_database_win.cc(428)] unexpected header
